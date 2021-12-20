@@ -59,7 +59,7 @@
     "@playcanvas/eslint-config": "^1.0.6",
     "@storybook/addon-actions": "^6.0.3",
     "@storybook/addon-backgrounds": "^6.0.3",
-    "@storybook/addon-controls": "^6.0.0-beta.15",
+    "@storybook/addon-controls": "^6.4.0",
     "@storybook/addon-docs": "^6.0.3",
     "@storybook/addon-links": "^6.0.3",
     "@storybook/addons": "^6.0.3",
